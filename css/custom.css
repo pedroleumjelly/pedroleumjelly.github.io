@@ -1,0 +1,315 @@
+@font-face {
+  font-family: "iconsweets";
+  src: url('../fonts/iconsweets.otf');
+} 
+
+@font-face {
+  font-family: "kaufmann";
+  src: url('../fonts/kaufmann.ttf');
+} 
+
+.header {
+  padding-top: 100px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 40px;
+  height: 740px;
+  background-image: url(../img/cover.jpg);
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  width: 100%;
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+.header h1 {
+  color: #fff;
+  font-family: "Helvetica Neue", "Arial", sans-serif;
+  font-weight: 100;
+  font-size: 34px;
+  margin-bottom: 30px;
+}
+
+.iconsweets {
+  color: #ff3f3f;
+  font-size: 36px;
+  font-family: "iconsweets";
+  letter-spacing: 8px;
+}
+
+.title {
+  font-family: "kaufmann";
+  color: #fff;
+  font-size: 56px;
+  margin-bottom: 50px;
+}
+
+.app-icon {
+  background-image: url(../img/app.png);
+  background-size: 250px 250px;
+  width: 250px;
+  height: 250px;
+  background-position: center center;
+  background-repeat: no-repeat;
+  margin-bottom: 100px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.app-icon-2 {
+  background-image: url(../img/app.png);
+  background-size: 300px 300px;
+  width: 300px;
+  height: 300px;
+  background-position: center center;
+  background-repeat: no-repeat;
+  margin-top: 80px;
+  margin-bottom: 100px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.app-icon-mobile {
+  background-image: url(../img/app.png);
+  background-size: 200px 200px;
+  width: 200px;
+  height: 200px;
+  background-position: center center;
+  background-repeat: no-repeat;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 45px;
+  margin-top: 35px;
+}
+
+.download-button-mobile {
+  border: 2px solid #ff3f3f;
+  border-radius: 4px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  font-family: "Helvetica Neue", "Arial", sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  color: #ff3f3f;
+  text-align: center;
+}
+
+.download-button {
+  border: 1px solid #fff;
+  border-radius: 4px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 30px;
+  padding-right: 30px;
+  font-family: "Helvetica Neue", "Arial", sans-serif;
+  font-weight: 100;
+  font-size: 20px;
+  color: #fff;
+  width: 360px;
+}
+
+.download-button:hover {
+  border: 1px solid #ff3f3f;
+  box-shadow: 0px 0px 28px rgba(255,255,255,0.59);
+}
+
+.download-button-red {
+  border: 1px solid #ff3f3f; 
+  border-radius: 4px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 30px;
+  padding-right: 30px;
+  font-family: "Helvetica Neue", "Arial", sans-serif;
+  font-weight: 100;
+  font-size: 20px;
+  color: #ff3f3f;
+}
+
+.download-button-red:hover {
+  border: 1px solid #ab1a1a;
+}
+
+a:hover {
+  color: #ff3f3f;
+}
+
+.device-1 {
+  background-image: url(../img/device-1.png);
+  background-size: 306px 510px;
+  width: 306px;
+  height: 510px;
+  background-repeat: no-repeat;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.device-2 {
+  background-image: url(../img/device-2.png);
+  background-size: 402px 192px;
+  height: 192px;
+  background-repeat: no-repeat;
+  margin-top: 60px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.fancy {
+  vertical-align: middle;
+}
+
+h1 {
+  font-family: "Helvetica Neue", "Arial", sans-serif;
+  font-size: 30px;
+  font-weight: 100;
+  line-height: 1.1em;
+}
+
+h2 {
+  font-family: "Helvetica Neue", "Arial", sans-serif;
+  font-size: 30px;
+  font-weight: 100;
+  color: #ff3f3f;
+  line-height: 1.1em;
+  margin-bottom: 30px;
+}
+
+h6 {
+  font-family: "Helvetica Neue", "Arial", sans-serif;
+  font-size: 10px;
+  font-weight: 100;
+  color: #ffffff;
+  line-height: 1.1em;
+}
+
+p {
+  font-family: "Helvetica Neue", "Arial", sans-serif;
+  font-weight: 200;
+  line-height: 1.6em;
+}
+
+.separator {
+  height: 1px;
+  background-color: #e3e3e3;
+  margin-bottom: 100px;
+}
+
+.separator-2 {
+  height: 1px;
+  background-color: #e3e3e3;
+  margin-bottom: 100px;
+  margin-top: 110px;
+}
+
+.centered {
+  text-align: center;
+}
+
+.people {
+  height: 600px;
+  background-image: url(../img/people.jpg);
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  width: 100%;
+  text-align: center;
+  margin-bottom: 40px;
+  margin-top: 20px;
+  border-radius: 8px;
+}
+
+.car {
+  height: 600px;
+  background-image: url(../img/car.jpg);
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  width: 100%;
+  text-align: center;
+  margin-bottom: 40px;
+  border-radius: 8px;
+}
+
+.footer {
+  margin-top: 110px;
+  background-color: rgba(45,52,63,1);
+  padding-bottom: 25px;
+  text-align: center;
+  border-top: 2px solid #ff3f3f;
+}
+
+.footer ul {
+  list-style-type: none;
+  margin: 0;
+  overflow: hidden;
+  padding: 35px;
+  font-size: 30px;
+}
+
+.footer ul li {
+  display: inline-block;
+  margin-left: 18px;
+  margin-right: 18px;
+}
+
+.footer ul a {
+  color: #fff;
+  font-family: "kaufmann";
+}
+
+.footer ul a:hover {
+  color: #ff3f3f;
+}
+
+.hareesh {
+  background-image: url(../img/hareesh.png);
+  background-position: center center;
+  background-repeat: no-repeat;
+  border-radius: 99px;
+  height: 150px;
+  width: 150px;
+  background-size: 150px 150px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+}
+
+.matt {
+  background-image: url(../img/matt.png);
+  background-position: center center;
+  background-repeat: no-repeat;
+  border-radius: 99px;
+  height: 150px;
+  width: 150px;
+  background-size: 150px 150px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+}
+
+.peter {
+  background-image: url(../img/peter.png);
+  background-position: center center;
+  background-repeat: no-repeat;
+  border-radius: 99px;
+  height: 150px;
+  width: 150px;
+  background-size: 150px 150px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+}
+
+.joe {
+  background-image: url(../img/joe.png);
+  background-position: center center;
+  background-repeat: no-repeat;
+  border-radius: 99px;
+  height: 150px;
+  width: 150px;
+  background-size: 150px 150px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+}

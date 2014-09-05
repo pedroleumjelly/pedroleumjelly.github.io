@@ -293,7 +293,7 @@ p {
 }
 
 .peter {
-  background-image: url(../img/peter.png);
+  background-image: url(../img/peter.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   border-radius: 99px;
@@ -306,7 +306,7 @@ p {
 }
 
 .joe {
-  background-image: url(../img/joe.png);
+  background-image: url(../img/joe.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   border-radius: 99px;
